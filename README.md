@@ -10,4 +10,10 @@ Các bạn chỉ cần chèn đoạn css dưới đây vào cặp thẻ `<style>
 
 Và sau đó chèn đoạn này xuống dưới thẻ `<body>` hoặc trên thẻ `</body>`
 
+Hiển thị hoa mai
+
 `<span class="g-snows" id="jsi-snows"><hoamai></hoamai><hoamai></hoamai><hoamai></hoamai><hoamai></hoamai><hoamai></hoamai><hoamai></hoamai><hoamai></hoamai><hoamai></hoamai><hoamai></hoamai><hoamai></hoamai><hoamai></hoamai><hoamai></hoamai><hoamai></hoamai><hoamai></hoamai><hoamai></hoamai></span>`
+
+Hiển thị hoa đào
+
+`<span class="g-snows" id="jsi-snows"><hoadao></hoadao><hoadao></hoadao><hoadao></hoadao><hoadao></hoadao><hoadao></hoadao><hoadao></hoadao><hoadao></hoadao><hoadao></hoadao><hoadao></hoadao><hoadao></hoadao><hoadao></hoadao><hoadao></hoadao><hoadao></hoadao><hoadao></hoadao><hoadao></hoadao></span>`
