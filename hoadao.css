@@ -14,7 +14,7 @@
     animation-iteration-count:infinite;
     animation-timing-function:linear;
     animation-fill-mode:forwards;
-    background:url(https://github.com/duyplus/CssTet/blob/main/hoadao.png?raw=true)
+    background:url(https://raw.githubusercontent.com/duyplus/CssTet/main/hoadao.png)
 }
 .g-snows>li:nth-child(1){
     left:17%;
